@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 📝self introduction
+* a not real programmer LOL
+## I'm currently learning Java(JavaFX, Android) as my leisure time hobby.
