@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 📝self introduction
-* a not real programmer LOL
-* not master but keep going; currently learning: JavaFX & Android for my AudioPlayer project.
-* 
+* programming for hobbies LOL
+* not master but keep going; currently learning: Minecraft Modding and creating my own mod.
+* Trying to learn anything cool! Not seriously I promise😆.
+* Sometimes will lose track of time so please wake me up when I'm daydreaming XD
