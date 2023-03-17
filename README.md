@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 * not master but keep going; currently learning: Minecraft Modding and creating my own mod.
 * Trying to learn anything cool! Not seriously I promise😆.
 * Sometimes will lose track of time so please wake me up when I'm daydreaming XD
+
+# 📚Currently Doing/Learning
+* Minecraft Modding 🛠
+* Machine Learning as major in uni 🤖
