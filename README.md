@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 📝self introduction
+# 📝Self introduction
 * programming for hobbies LOL
 * not master but keep going; currently learning: Minecraft Modding and creating my own mod.
 * Trying to learn anything cool! Not seriously I promise😆.
@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 # 📚Currently Doing/Learning
 * Minecraft Modding 🛠
-* Machine Learning as major in uni 🤖
+* Artificial Intelligence as major in uni 🤖
+
+# 📣You Know...
