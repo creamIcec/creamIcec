@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 -->
 
 # 📝Self introduction
-* programming for hobbies LOL
-* not master but keep going; currently learning: Minecraft Modding and creating my own mod.
-* Trying to learn anything cool! Not seriously I promise😆.
-* Sometimes will lose track of time so please wake me up when I'm daydreaming XD
+* programming for life LOL
+* not mastery but keep going; currently learning: Wayland Compositor & AI applications 
+* Trying to learn every cool thing! Want to be serious but maybe just kidding😆.
+* Sometimes will lose track of time so please wake me up when I'm daydreaming.
 
 # 📚Currently Doing/Learning
-* Minecraft Modding 🛠
+* Tiling Wayland Compositor 🛠
 * Artificial Intelligence as major in uni 🤖
 
-# 📣You Know...
+# 📣You May be Interested...
+* Take a look at my pinned repos, they are either finished or ongoing projects.
+* Issues and Pull Requests are all-time welcome! Let's improve together.
