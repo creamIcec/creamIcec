@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 # 📣You May be Interested...
 * Take a look at my pinned repos, they are either finished or ongoing projects.
 * Issues and Pull Requests are all-time welcome! Let's improve together.
+* **Check out my blog! 👉[link](https://blog.irise.top/), source code also available in repository**
