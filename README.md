@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 
 # 📝Self introduction
 * programming for hobby/work LOL
-* not mastery but keep going; currently learning: Wayland Compositor & AI applications 
-* Trying to learn every cool thing! Want to be serious but maybe just kidding😆.
-* Sometimes will lose track of time so please wake me up when I'm daydreaming.
+* not mastery but keep going; currently learning: AI & MCP applications 
+* Trying to learn every cool thing (seriously) !
+* Sometimes will lose track of time so please wake me up when I'm addicted to debugging...
 
 # 📚Currently Doing/Learning
+* CS(Artificial Intelligence) major student 🤖
+* Frontend Development (Next.js)
+* Minecraft Modding
 * Tiling Wayland Compositor 🛠
-* Artificial Intelligence as major in uni 🤖
-* Frontend Development (Next.js/Electron)
 
 # 📣You May be Interested...
 * Take a look at my pinned repos, they are either finished or ongoing projects.
